@@ -1,0 +1,24 @@
+*/
+BODY {
+    background-color: white;
+    color: black;
+    padding: 1.5em;
+    border: 1px solid #aaa;
+    margin: 1em;
+}
+H1 {
+    color: #f88;
+    background: #fee;
+}
+IMG {
+    border: none;
+}
+P {
+    background: #eef;
+}
+A {
+}
+A:hover {
+    text-decoration: none;
+    color: #f33;
+}
